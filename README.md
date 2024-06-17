@@ -49,6 +49,19 @@ I am an active member of GDSC (Google Developer Student Clubs) at pes mcoe, wher
 - e-Yantra Robotics Competition (IIT Bombay) - 2nd Round
 - GirlScript Summer of Code - Contributor
 
+  ## GitHub Stats
+
+![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khuship23&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuship23&layout=compact)
+
+## Activity Graph
+
+[![Khushi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=khuship23&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## Get in Touch
 
 Feel free to reach out to me via email or connect with me on LinkedIn! I'm always open to collaborating on exciting projects and exploring new opportunities.
