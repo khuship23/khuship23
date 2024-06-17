@@ -59,7 +59,7 @@ I am an active member of GDSC (Google Developer Student Clubs) at pes mcoe, wher
 
 ## Activity Graph
 
-[![Khushi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=khuship23&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Khushi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khuship23&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Get in Touch
