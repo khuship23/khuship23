@@ -16,7 +16,7 @@ I'm Khushi Pardeshi, a passionate engineering student specializing in Artificial
 ## Skills & Certifications
 
 - 💻 Programming Languages: C++, Python, Kotlin, Java, PHP
-- 🌐 Web Technologies: HTML, CSS, JavaScript, WordPress
+- 🌐 Web Technologies: HTML, CSS, JavaScript, WordPress, React
 - ⚙️ Backend Frameworks: Node.js, Express.js
 - 📊 Framework/Libraries: Pandas, NumPy, OpenCV
 - 🗃️ Database: MySQL, MongoDB
