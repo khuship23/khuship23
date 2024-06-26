@@ -13,37 +13,10 @@
 - 🔗 LinkedIn: [khushi-pardeshi](https://linkedin.com/in/khushi-pardeshi)
 - 🌐 GitHub: [khuship23](https://github.com/khuship23)
 
-## Skills & Certifications
-
-- 💻 **Programming Languages**: C++, Python, Kotlin, Java, PHP
-- 🌐 **Web Technologies**: HTML, CSS, JavaScript, WordPress, React, TypeScript, Tailwind
-- ⚙️ **Backend Frameworks**: Node.js, Express.js
-- 📊 **Frameworks/Libraries**: Pandas, NumPy, OpenCV
-- 🗃️ **Database**: MySQL, MongoDB
-- 🛠️ **Engineering Software**: VS Code, Git
-- 🎓 **Certifications**: Nvidia DLI, Brainy-IoT
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,flask,mysql,sqlite,mongodb,html,css,bootstrap,tailwind,js,react,nodejs,express,java,kotlin,typescript,opencv,linux,anaconda,github,vscode,pycharm" />
 </div>
-
-## Projects
-
-### RCB Color Detector
-- Extracts RGB values, identifies color names, and utilizes the pandas library for efficient CSV file handling, suitable for image editing and drawing applications.
-- **Tech Stack**: Python, OpenCV, Pandas
-- [GitHub Repository](https://github.com/khuship23/rcb-color-detector)
-
-### TraineeeZ - Training and Placement App
-- A user-friendly app designed to simplify the training and placement procedure.
-- **Tech Stack**: Kotlin, XML, Firebase
-- [GitHub Repository](https://github.com/khuship23/traineez)
-
-### Profile Management System
-- Offers a simple solution for managing personal and professional profiles with a focus on simplicity and efficiency.
-- **Tech Stack**: HTML, CSS, Flask, MySQL
-- [GitHub Repository](https://github.com/khuship23/profile-management-system)
 
 ## GDSC Member
 
@@ -52,7 +25,8 @@ I am an active member of GDSC (Google Developer Student Clubs) at PES MCOE, wher
 ## Achievements
 
 - e-Yantra Robotics Competition (IIT Bombay) - 2nd Round
-- GirlScript Summer of Code - Contributor
+- GirlScript Summer of Code - Contributor                                                            
+
 
 ## GitHub Stats
 
