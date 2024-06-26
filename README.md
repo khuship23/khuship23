@@ -7,8 +7,7 @@
 
 ## About Me
 
-- 🎓 Bachelor of Engineering in Artificial Intelligence and Data Science (2021 - 2025)
-- 📚 Senior Secondary (XII) in Science (PCM) - 2021
+- 🎓 Bachelor of Engineering in Artificial Intelligence and Data Science (2021 - 2025)                    
 - 📧 Email: [pardeshikhushi23@gmail.com](mailto:pardeshikhushi23@gmail.com)
 - 🔗 LinkedIn: [khushi-pardeshi](https://linkedin.com/in/khushi-pardeshi)
 - 🌐 GitHub: [khuship23](https://github.com/khuship23)
