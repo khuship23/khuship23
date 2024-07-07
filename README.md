@@ -14,8 +14,9 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,flask,mysql,sqlite,mongodb,html,css,bootstrap,tailwind,js,react,nodejs,express,java,kotlin,typescript,opencv,linux,anaconda,github,vscode,pycharm" />
+   <img src="https://skillicons.dev/icons?i=python,cpp,flask,mysql,sqlite,mongodb,html,css,bootstrap,tailwind,js,react,nodejs,express,java,kotlin,typescript,opencv,linux,anaconda,github,vscode,pycharm" />
 </div>
+
 
 ## GDSC Member
 
