@@ -40,6 +40,7 @@ I am an active member of GDSC (Google Developer Student Clubs) at PES MCOE, wher
 
 [![Khushi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khuship23&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
 ## Get in Touch
 
 Feel free to reach out to me via email or connect with me on LinkedIn! I'm always open to collaborating on exciting projects and exploring new opportunities.
